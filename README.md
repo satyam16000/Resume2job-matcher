@@ -19,7 +19,7 @@ Installation
 bash
 Copy
 Edit
-git clone https://github.com/yourusername/job-matcher.git
+git clone https://github.com/satyam16000/job-matcher.git
 cd job-matcher
 2. Set up a virtual environment
 bash
